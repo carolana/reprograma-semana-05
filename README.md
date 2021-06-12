@@ -15,4 +15,5 @@ Foi realmente um desafio este exercicio, por exigir de mim mesma que eu corresse
 
 Mas enfim, foi um desafio e tanto e aí está meu xodózinho:
 
+![gif "projeto completo"](img/projeto-completo.gif)
 
